@@ -1,0 +1,30 @@
+{
+  "name": "xml2json-es",
+  "version": "1.0.8",
+  "description": "A JavaScript library for converting XML data to JSON format",
+  "main": "dist/index.js",
+  "keywords": [
+    "xml",
+    "xml to json",
+    "xml converter",
+    "json",
+    "xml parsing",
+    "xml processing",
+    "browser",
+    "node.js"
+  ],
+  "author": "Stekolschikov Vitaly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StekolschikovV/xml2json-es.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
